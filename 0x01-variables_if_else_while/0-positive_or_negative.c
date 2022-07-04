@@ -4,7 +4,7 @@
 
 /**
  * main -> assign a random number to the variable n each time it is executed and check whether the number is negetive or posetive
- * Return -> always 0
+ * Return : always 0
  */
 int main(void)
 {
